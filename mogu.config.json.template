@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "phone": "110110110",
+      "password": "asdasd",
+      "name": "KeJun",
+      "clock": {
+        "address": "北京市 · 北京市",
+        "province": "北京市",
+        "city": "北京市",
+        "description": "我爱北京"
+      },
+      "serverChan": ""
+    }
+  ]
+}
